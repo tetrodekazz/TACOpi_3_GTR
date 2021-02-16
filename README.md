@@ -1,5 +1,5 @@
 # TACOpi_3_GTR
-「TACOpi 3 GTR」は、文部科学省「東北マリンサイエンス拠点形成事業（海洋生態系の調査研究）」（http://www.jamstec.go.jp/i-teams/ ）において、ミズダコ漁のモニタリングのために開発された時系列撮影カメラです。
+「TACOpi 3 GTR」は、文部科学省「東北マリンサイエンス拠点形成事業（海洋生態系の調査研究）」（https://www.jamstec.go.jp/i-teams/ ）において、ミズダコ漁のモニタリングのために開発された時系列撮影カメラです。
 本当の名前は「Transportable Automatic Camera Obsdervatory for Picture Integrtation ver.3 with a Generic Temperature Recorder」といいますが、長いのでタコパイと呼ばれています。
 
 タコパイは、元々はRaspberry piを使用した動画撮影カメラでしたが、開発において漁師さんが手軽に扱えることと、夜間を除き30秒間隔の時系列スチル撮影を2週間以上行うことに留意したため、市販の時系列カメラに載せ替え、耐圧容器も簡便化しました。
