@@ -8,6 +8,6 @@
 
 このカメラの製作に関する情報をオープンソースとして公開いたします。ご参考までに、部品リスト、写真のほか、3Dプリンタによる出力が必要な部品の3D CADデータを掲載します。製作方法は後ほどupload予定です（小栗一将）。
 
-なお、タコパイの開発は文部科学省「東北マリンサイエンス拠点形成事業（海洋生態系の調査研究）」（Grant number JPMXD1111105260; https://www.jamstec.go.jp/i-teams/ ）の助成を受け行われました。
+なお、タコパイの開発は文部科学省「東北マリンサイエンス拠点形成事業（海洋生態系の調査研究）」（Grant number JPMXD1111105259; https://www.jamstec.go.jp/i-teams/ ）の助成を受け行われました。
 
 引用：手塚尚明（2018）防水ハウジング　塩ビ配管用品で防水ハウジングを作ってみましょう. http://feis.fra.affrc.go.jp/seika/tayousei/fishdiv/housing.html
