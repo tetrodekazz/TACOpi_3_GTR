@@ -1,6 +1,6 @@
 # TACOpi_3_GTR
 「TACOpi 3 GTR」は、ミズダコ漁のモニタリングのために開発された時系列撮影カメラです。
-本当の名前は「Transportable Automatic Camera Observatory for Picture Integrtation ver.3 with a Generic Temperature Recorder」といいますが、長いのでタコパイと呼ばれています。
+本当の名前は「Transportable Automatic Camera Observatory for Picture Integration ver.3 with a Generic Temperature Recorder」といいますが、長いのでタコパイと呼ばれています。
 
 タコパイは、元々はRaspberry piとカメラモジュールを使用した動画撮影カメラでしたが、漁師さんが手軽に扱えることと、夜間を除き30秒間隔の時系列スチル撮影を2週間以上行えることを開発の目標としたため、途中市販の時系列カメラに載せ替え、耐圧容器も簡便化しました。
 
