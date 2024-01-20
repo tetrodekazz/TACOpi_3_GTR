@@ -11,3 +11,5 @@
 なお、タコパイの開発は文部科学省「東北マリンサイエンス拠点形成事業（海洋生態系の調査研究）」（Grant number JPMXD1111105259; https://www.jamstec.go.jp/i-teams/ ）の助成を受け行われました。
 
 引用：手塚尚明（2018）防水ハウジング　塩ビ配管用品で防水ハウジングを作ってみましょう. http://feis.fra.affrc.go.jp/seika/tayousei/fishdiv/housing.html
+
+小栗一将（南デンマーク大学/海洋研究開発機構）
